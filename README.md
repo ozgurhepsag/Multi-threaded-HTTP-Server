@@ -1,6 +1,5 @@
 # Multi-threaded HTTP Server
-
-In this assignment, you are expected to write a small web server in c that supports a subset of the HTTP 1.0 specifications. The server;
+This is a small web server written in C that supports a subset of the HTTP 1.0 specifications. The server;
 
 • should be able to handle simultaneous requests
 
