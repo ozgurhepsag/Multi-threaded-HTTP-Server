@@ -1,7 +1,5 @@
 # Multi-threaded HTTP Server
 
-Task
-
 In this assignment, you are expected to write a small web server in c that supports a subset of the HTTP 1.0 specifications. The server;
 
 • should be able to handle simultaneous requests
@@ -20,8 +18,6 @@ http:// testhost.mydomain.com:6789/index.html
 If you omit ":6789", the browser will assume port 80 which most likely will not have a server listening on it.
 
 When the server encounters an error, it sends a response message with the appropriate HTML source so that the error information is displayed in the browser window.
-
-The Figure-1 shows the basic communications between server and client.
 
 General Requirements:
 
