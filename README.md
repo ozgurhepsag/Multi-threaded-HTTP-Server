@@ -24,10 +24,4 @@ General Requirements:
 
 • Server takes too many requests but it can return response only 10 requests. More than 10 requests are refused. In this state, server returns a “Server is busy” message
 
-• Server accept the requests that will be html and jpeg files. The other types will be not accepting.
-
-• You only upload a single c file.
-
-• We compile your solution using the following code.
-
-• gcc StudentNumber.c –o StudentNumber –lpthread
+• Server accept the requests that will be html and jpeg files. The other types will be not accepting
